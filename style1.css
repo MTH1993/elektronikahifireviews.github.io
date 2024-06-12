@@ -14,7 +14,7 @@ footer {
   bottom: 0px;
 }
 .container1 {
-  background-image: url('assets/Banners/Nakamichi\ Dragon\ Banner.jpg');
+  background-image: url('Nakamichi\ Dragon\ Banner.jpg');
   background-size: contain; 
   background-position: center; 
   padding: 20px 0; 
@@ -30,14 +30,14 @@ footer {
 }
 
 .container3 {
-  background-image: url('assets/Banners/Revox\ A77\ Banner.jpg');
+  background-image: url('Revox\ A77\ Banner.jpg');
   background-size: contain;
   background-position: center; 
   padding: 20px 0; 
   height: 420px;
 }
 .container5 {
-  background-image: url('assets/Banners/Denon\ DP-47\ Banner.jpg');
+  background-image: url('Denon\ DP-47\ Banner.jpg');
   background-size: contain; 
   background-position: center; 
   padding: 20px 0; 
@@ -53,7 +53,7 @@ footer {
 }
 
 .container7 {
-  background-image: url('assets/Banners/Sony\ DTC-60ES\ Banner.jpeg');
+  background-image: url('Sony\ DTC-60ES\ Banner.jpeg');
   background-size: contain; 
   background-position: center; 
   padding: auto; 
